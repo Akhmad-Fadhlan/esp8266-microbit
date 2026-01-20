@@ -2,7 +2,7 @@
   "name": "esp8266-microbit",
   "version": "1.0.0",
   "description": "Simple ESP8266 WiFi MakeCode extension for sending sensor data to PHP server (HTTP GET)",
-  "license": "MIT",
+  "license": "MIT", 
   "dependencies": {
     "core": "*" 
   },
