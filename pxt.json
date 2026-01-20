@@ -4,7 +4,7 @@
   "description": "Simple ESP8266 WiFi MakeCode extension for sending sensor data to PHP server (HTTP GET)",
   "license": "MIT", 
   "dependencies": {
-    "core": "*" 
+    "core": "*"  
   },
   "files": [
     "esp8266.ts"
