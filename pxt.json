@@ -1,0 +1,18 @@
+{
+  "name": "esp8266-simple-http",
+  "version": "1.0.0",
+  "description": "Simple ESP8266 WiFi MakeCode extension for sending sensor data to PHP server (HTTP GET)",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "radio": "*",
+    "serial": "*"
+  },
+  "files": [
+    "esp8266.ts"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ]
+}
