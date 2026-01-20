@@ -7,7 +7,7 @@
     "core": "*" 
   },
   "files": [
-    "main.ts"
+    "esp8266.ts"
   ],
   "public": true,
   "supportedTargets": [
