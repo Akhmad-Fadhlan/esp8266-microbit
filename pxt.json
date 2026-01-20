@@ -1,16 +1,16 @@
-{ 
-  "name": "esp8266-microbit",
-  "version": "1.0.0",
-  "description": "Simple ESP8266 WiFi MakeCode extension for sending sensor data to PHP server (HTTP GET)",
-  "license": "MIT", 
-  "dependencies": {
-    "core": "*"  
-  },
-  "files": [
-    "esp8266.ts"
-  ],
-  "public": true,
-  "supportedTargets": [
-    "microbit"
-  ]
+{
+    "name": "esp8266",
+    "description": "ESP8266 WiFi library for micro:bit",
+    "files": [
+        "esp8266.ts"
+    ],
+    "public": true,
+    "dependencies": {
+        "core": "*"
+    },
+    "version": "1.0.0",
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }
